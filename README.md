@@ -8,3 +8,4 @@
 Bayurasa88/Bayurasa88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Check out my address in Scopescan: 0x56bc19def19a6d49f1d2d03de4f3c2beb026249b
